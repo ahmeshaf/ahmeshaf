@@ -2,7 +2,7 @@ Hi, I'm a PhD candidate in Computer Science at CU Boulder. My research focuses o
 
 I've got five years of industry experience at HP, where I led the NLP group and even secured a patent for stochastic modeling of troubleshooting steps. I also completed two internships at Explosion.ai, the creators of spaCy, which led to two published papers.
 
-During my academic journey, I was a research assistant on two DARPA projects. I spearheaded the development of knowledge graph construction methods for unstructured texts from news articles with conflicting reports. My research has led to eight publications, including five as the first author in the past year and my first ACL Main acceptance.
+During my academic journey, I was a research assistant on two DARPA projects. I spearheaded the development of knowledge graph construction methods for unstructured texts from news articles with conflicting reports. My research has led to eight publications, including five as the first author in 2023-24 and my first ACL Main acceptance.
 
 Overall, my work bridges advanced NLP techniques with real-world applications, driving innovation in language understanding, processing, annotations, and creating efficient methods.
 
